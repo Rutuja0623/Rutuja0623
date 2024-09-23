@@ -59,8 +59,8 @@ My motivation for pursuing a career in data science stems from my early experien
 <hr>
 
 <h3> My GitHub Analytics </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact&theme=merko" alt="Your GitHub Top Languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rutuja0623&show_icons=true&locale=en&layout=compact&theme=merko" alt="Your GitHub Top Languages" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&&theme=merko" alt="Your GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rutuja0623&&theme=merko" alt="Your GitHub Streak" /></p>
 
 <hr>
