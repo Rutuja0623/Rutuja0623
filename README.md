@@ -7,7 +7,7 @@ As a soon-to-graduate student from Northeastern University with a Master of Scie
 
 💬 Ask me about Data Science, Machine Learning, and Visualization.
 
-:chart_with_upwards_trend: Check out my <a href="https://public.tableau.com/app/profile/rutuja.pawar/viz/SalesDashboard_Version1/SalesDashboard?publish=yes" target="_blank">Tableau Visualizations</a>
+:chart_with_upwards_trend: Check out my <a href="https://public.tableau.com/app/profile/rutuja.pawar2514/vizzes" target="_blank">Tableau Visualizations</a>
 
 <hr>
 
