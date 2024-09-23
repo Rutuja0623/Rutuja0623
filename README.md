@@ -22,6 +22,10 @@ As a soon-to-graduate student from Northeastern University with a Master of Scie
   <img src="https://img.shields.io/badge/Snowflake-abf0ff?style=flat&logo=snowflake&logoColor=white" alt="Snowflake">
   <img src="https://img.shields.io/badge/Tableau-339933?style=flat&logo=tableau&logoColor=FFFFFF" alt="Tableau">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=FFFFFF" alt="Power BI">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Informatica-1F3F6C?style=flat&logo=informatica&logoColor=white" alt="Informatica">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
 <hr>
 
